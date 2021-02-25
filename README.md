@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # CSC413
-=======
 1) Clone this repo to your computer
 2) Make the folder TankWarsGame as your root
 3) The Launcher class is the class that contain the main function, so run from there.
@@ -16,4 +14,3 @@ https://github.com/monalimirel/Tank-Game
 COLLABORATION CREDIT:
 
 Hong Shen Li
->>>>>>> csc413-tankgame-kefung2/master
